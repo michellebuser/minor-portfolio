@@ -1,7 +1,7 @@
 .my-custom-row {
 	background-color: bisque;
 	height: 400px;
-	justify-content: around;
+	justify-content: space-around;
 	align-items: center;
 
 }
