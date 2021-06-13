@@ -27,7 +27,7 @@ body {
 }
 
 
-.btn1, .btn2, .btn3 {
+.btn1 .btn2 .btn3 {
 	color: #fff;
 	font-size: medium;
 	border: none;
@@ -70,7 +70,7 @@ body {
 
 
 
-.btn1, .btn2, .btn3:hover {
+.btn1 .btn2 .btn3:hover {
 	background-position: right;
 
 }
