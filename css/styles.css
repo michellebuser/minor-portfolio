@@ -61,11 +61,7 @@ body {
 
 }
 
-.btn4 {
-	background-image: linear-gradient(to left, #15C4FB, #CD15FB, #15C4FB); /*blue and purple*/
-	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
-}
 
 .btn:hover {
 	background-position: right;
