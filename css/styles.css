@@ -1,4 +1,28 @@
-.my-custom-row {
+.my-custom-row-1 {
+	background-color: #99D19C;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.my-custom-row-2 {
+	background-color: #99D19C;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.my-custom-row-3 {
+	background-color: #99D19C;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.my-custom-row-4 {
 	background-color: #99D19C;
 	height: 400px;
 	justify-content: center;
