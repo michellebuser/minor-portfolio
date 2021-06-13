@@ -44,7 +44,9 @@ body {
 }
 
 .btn1 {
-	background-image: linear-gradient(to left, #FFC312, #EE5A24, #FFC312); /*orange*/
+	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
+	box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 10px;
+
 
 }
 
