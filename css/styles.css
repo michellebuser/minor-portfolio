@@ -70,7 +70,7 @@ body {
 
 
 
-.btn:hover {
+.btn:hover > .btn1, .btn2, .btn3 {
 	background-position: right;
 
 }
