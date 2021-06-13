@@ -44,24 +44,26 @@ body {
 }
 
 .btn1 {
-	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
+	background-image: linear-gradient(to left, #29FF72, #1547FB, #29FF72); /*blue and green*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
-
 
 }
 
 .btn2 {
 	background-image: linear-gradient(to left, #FF295D, #9615FB, #FF295D); /*purple and pink*/
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
 }
 
 .btn3 {
-	background-image: linear-gradient(to left, #29FF72, #1547FB, #29FF72); /*blue and green*/
+	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
 }
 
 .btn4 {
 	background-image: linear-gradient(to left, #15C4FB, #CD15FB, #15C4FB); /*blue and purple*/
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
 }
 
