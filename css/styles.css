@@ -45,23 +45,23 @@ body {
 
 .btn1 {
 	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
-	box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 10px;
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
 
 }
 
 .btn2 {
-	background-image: linear-gradient(to left, #C4E538, #009432, #C4E538); /*green*/
+	background-image: linear-gradient(to left, #FF295D, #9615FB, #FF295D); /*purple and pink*/
 
 }
 
 .btn3 {
-	background-image: linear-gradient(to left, #449DD1, #150578, #449DD1); /*blue*/
+	background-image: linear-gradient(to left, #29FF72, #1547FB, #29FF72); /*blue and green*/
 
 }
 
 .btn4 {
-	background-image: linear-gradient(to left, #FDAFD7, #9980FA, #FDAFD7); /*pink*/
+	background-image: linear-gradient(to left, #15C4FB, #CD15FB, #15C4FB); /*blue and purple*/
 
 }
 
