@@ -26,14 +26,15 @@
 
 
 .btn {
+	color: #fff;
 	border: none;
 	margin: 20px;
 	padding: 24px;
 	width: 220px;
-	text-transform: uppercase;
 	border-radius: 6px;
 	cursor: pointer;
 	background-size: 200%;
+	transition:  0.6s;
 
 }
 
@@ -54,5 +55,10 @@
 
 .btn4 {
 	background-image: linear-gradient(to left, #FDAFD7, #9980FA, #FDAFD7);
+
+}
+
+.btn:hover {
+	background-position: right;
 
 }
