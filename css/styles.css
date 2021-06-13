@@ -16,11 +16,12 @@
 
 
 
-.con-1 {
-	background-color: #ffffff;
-	height: 200px;
-	padding-top: 10px;
-	align-items: center;
+.container {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
 }
 
 
