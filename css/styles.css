@@ -62,8 +62,11 @@ body {
 }
 
 
-
 .btn:hover {
 	background-position: right;
 
+}
+
+.btn-primary {
+	background-color: #e5e5e5;
 }
