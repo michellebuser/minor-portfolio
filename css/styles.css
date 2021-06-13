@@ -30,11 +30,29 @@
 	margin: 20px;
 	padding: 24px;
 	width: 220px;
+	text-transform: uppercase;
 	border-radius: 6px;
+	cursor: pointer;
+	background-size: 200%;
 
 }
 
 .btn1 {
-	background-color: lineair-gradient (to left, #FFC312, #EE5A24, #FFC312);
-	
+	background-image: linear-gradient(to left, #FFC312, #EE5A24, #FFC312);
+
+}
+
+.btn2 {
+	background-image: linear-gradient(to left, #C4E538, #009432, #C4E538);
+
+}
+
+.btn3 {
+	background-image: linear-gradient(to left, #12CBC4, #0652DD, #12CBC4);
+
+}
+
+.btn4 {
+	background-image: linear-gradient(to left, #FDAFD7, #9980FA, #FDAFD7);
+
 }
