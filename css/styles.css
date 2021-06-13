@@ -27,7 +27,7 @@ body {
 }
 
 
-.btn {
+.btn1, .btn2, .btn3 {
 	color: #fff;
 	font-size: medium;
 	border: none;
@@ -70,11 +70,8 @@ body {
 
 
 
-.btn:hover > .btn1, .btn2, .btn3 {
+.btn1, .btn2, .btn3:hover {
 	background-position: right;
 
 }
 
-.btn-secondary {
-	color: #FFDD29;
-}
