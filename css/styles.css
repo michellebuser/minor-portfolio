@@ -15,4 +15,6 @@
 
 
 
-$breadcrumb-divider: quote(">");
+.breadcrumb {
+	background-color: white;
+}
