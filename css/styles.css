@@ -61,6 +61,14 @@ body {
 
 }
 
+.btn4, .btn5, .btn6 {
+	background-color:  #E3E4E5;
+	color: #73757B;
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
+
+}
+
+
 
 .btn:hover {
 	background-position: right;
