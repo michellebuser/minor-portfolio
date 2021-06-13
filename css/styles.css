@@ -27,7 +27,7 @@ body {
 }
 
 
-.btn1 .btn2 .btn3 {
+.btn {
 	color: #fff;
 	font-size: medium;
 	border: none;
@@ -38,24 +38,28 @@ body {
 	text-align: center;
 	border-radius: 30px;
 	cursor: pointer;
-	background-size: 200%;
-	transition:  0.6s;
-
 }
 
+
 .btn1 {
+	background-size: 200%;
+	transition:  0.6s;
 	background-image: linear-gradient(to left, #29FF72, #1547FB, #29FF72); /*blue and green*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
 }
 
 .btn2 {
+	background-size: 200%;
+	transition:  0.6s;
 	background-image: linear-gradient(to left, #FF295D, #9615FB, #FF295D); /*purple and pink*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
 }
 
 .btn3 {
+	background-size: 200%;
+	transition:  0.6s;
 	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
