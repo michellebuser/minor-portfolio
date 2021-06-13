@@ -1,5 +1,29 @@
-.my-custom-row {
-	background-color: bisque;
+.row-1 {
+	background-color: #3A5843;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.row-2 {
+	background-color: #73AB84;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.row-3 {
+	background-color: #86BE90;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.row-4 {
+	background-color: #99D19C;
 	height: 400px;
 	justify-content: center;
 	align-items: center;
