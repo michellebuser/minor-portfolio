@@ -33,3 +33,8 @@
 	border-radius: 6px;
 
 }
+
+.btn1 {
+	background-color: lineair-gradient (to left, #FFC312, #EE5A24, #FFC312);
+	
+}
