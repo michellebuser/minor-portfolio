@@ -44,6 +44,7 @@ body {
 .btn1 {
 	background-size: 200%;
 	transition:  0.6s;
+	background-position: right;
 	background-image: linear-gradient(to left, #29FF72, #1547FB, #29FF72); /*blue and green*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
@@ -52,6 +53,7 @@ body {
 .btn2 {
 	background-size: 200%;
 	transition:  0.6s;
+	background-position: right;
 	background-image: linear-gradient(to left, #FF295D, #9615FB, #FF295D); /*purple and pink*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
 
@@ -60,22 +62,9 @@ body {
 .btn3 {
 	background-size: 200%;
 	transition:  0.6s;
+	background-position: right;
 	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
 	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
-
-}
-
-.btn4, .btn5, .btn6 {
-	background-color:  #E3E4E5;
-	color: #73757B;
-	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
-
-}
-
-
-
-.btn1 .btn2 .btn3:hover {
-	background-position: right;
 
 }
 
