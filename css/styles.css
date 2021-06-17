@@ -26,6 +26,10 @@ body {
 	display: none;
 }
 
+.col {
+	background: #f0f0f0;
+	height: 200px;
+}
 
 
 
