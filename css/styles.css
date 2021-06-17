@@ -24,7 +24,9 @@ body {
 }
 
 
-
+.col {
+	height: 200px;
+}
 
 .container-2 {
 	background-color: #E5E5E5;
