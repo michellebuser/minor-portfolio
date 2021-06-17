@@ -18,6 +18,9 @@ body {
 	font-family: "Proxima Nova", sans-serif;
 }
 
+.navbar {
+	background-color: #F3F6FA;
+}
 .container-1 {
 	background-color: #E5E5E5;
 	height: 488px;
