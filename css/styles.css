@@ -19,18 +19,12 @@ body {
 }
 
 .container-1 {
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	transform: translate(-50%, -50%);
-	text-align: center;
+	background-color: #E5E5E5;
+}
+
+.container-2 {
 	background-color: #E5E5E5;
 }
 
 
-.btn {
-	text-align: center;
-	cursor: pointer;
-
-}
 
