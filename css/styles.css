@@ -1,4 +1,4 @@
-// Extra small devices (portrait phones, less than 576px)
+/* Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
 // Small devices (landscape phones, 576px and up)
@@ -11,7 +11,7 @@
 @media (min-width: 992px) { ... }
 
 // Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) { ... }*/
 
 
 body {
@@ -19,6 +19,7 @@ body {
 }
 
 .container-1 {
+	background-color: #E5E5E5;
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -26,10 +27,6 @@ body {
 	text-align: center;
 	background-color: #F0F0F0;
 }
-
-
-
-
 
 
 .btn {
