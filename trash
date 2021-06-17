@@ -1,1 +1,84 @@
-trash
+<!-- html -->
+
+<div class="container">
+			<div class="row">
+				<div class="col-sm-4 num-1">Column 1</div>
+				<div class="col-sm-4 num-2">Column 2</div>
+				<div class="col-sm-4 num-3">Column 3</div>
+			</div>
+</div>
+
+
+	<a href=""><h3>Blok 1</h3></a>
+	<a href=""><h3>Blok 2</h3></a>
+	<a href=""><h3>Blok 3</h3></a>
+
+
+<!-- html -->
+
+
+
+
+<!-- css -->
+
+.num-1 {
+	background-color: #E7E6F7;
+	height: 300px;
+
+}
+
+.num-2 {
+	background-color: #E3D0D8;
+	height: 400px;
+
+}
+
+.num-3 {
+	background-color: #AEA3B0;
+	height: 200px;
+
+}
+
+.btn {
+	color: #fff;
+	font-size: medium;
+	border: none;
+	margin: 20px;
+	padding: 20px;
+	width: 160px;
+	height: 60px;
+	text-align: center;
+	border-radius: 30px;
+	cursor: pointer;
+	background-size: 200%;
+	transition:  0.6s;
+
+}
+
+.btn1 {
+	background-image: linear-gradient(to left, #29FF72, #1547FB, #29FF72); /*blue and green*/
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
+
+}
+
+.btn2 {
+	background-image: linear-gradient(to left, #FF295D, #9615FB, #FF295D); /*purple and pink*/
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
+
+}
+
+.btn3 {
+	background-image: linear-gradient(to left, #FFDD29, #FB6815, #FFDD29); /*orange and yellow*/
+	/*box-shadow: #FB6815 4px 4px 10px, #FFDD29 -4px -4px 5px;*/
+
+}
+
+
+.btn:hover {
+	background-position: right;
+	color: #FFFFFF;
+
+}
+
+
+<!-- css --> 
