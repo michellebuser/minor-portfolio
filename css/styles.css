@@ -21,6 +21,7 @@ body {
 .navbar {
 	background-color: #F3F6FA !important;
 }
+
 .container-1 {
 	background-color: #E5E5E5;
 	height: 500px;
@@ -30,6 +31,7 @@ body {
 .container-2 {
 	background-color: #E5E5E5;
 	height: 300px;
+	align-content: center;
 }
 
 
