@@ -29,7 +29,11 @@ body {
 
 .container1 {
 	background-color: orange;
-	margin: 10px;
+}
+
+.navbar {
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 
