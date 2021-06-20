@@ -32,7 +32,10 @@ body {
 
 .container1 {
 	background-color: orange;
-	color: #FFF !important;
+}
+
+.collapse {
+	color: #FFF;
 }
 
 
