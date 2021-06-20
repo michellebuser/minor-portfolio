@@ -16,16 +16,8 @@ body {
 }
 
 
-.col1 {
-	background-color: #E5E5E5;
-	margin: 1rem;
-	padding: 1rem;
-	height: 400px;
-	text-align: left;
 
-
-}
-
+/* containers */
 .con2 {
 	background-color: #EE4B6A;
 }
@@ -39,3 +31,20 @@ body {
 	background-color: #E7E247;
 }
 
+
+/* columns */
+.col1 {
+	background-color: #E5E5E5;
+	margin: 1rem;
+	padding: 1rem;
+	height: 400px;
+	text-align: left;
+}
+
+.col2 {
+	background-color: #E5E5E5;
+	margin: 1rem;
+	padding: 1rem;
+	height: 100px;
+	text-align: left;
+}
