@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-	color: #000000;
+	color: #FFF;
 }
 
 .hidden {
@@ -34,8 +34,5 @@ body {
 	background-color: orange;
 }
 
-.collapse {
-	color: #FFF;
-}
 
 
