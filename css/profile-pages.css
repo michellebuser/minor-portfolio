@@ -1,3 +1,7 @@
+body {
+	font-family: 'Montserrat, sans-serif';
+}
+
 .container1 {
 	background-color: orange;
 }
@@ -12,13 +16,8 @@
 }
 
 
-
-
-
-
 .col {
 	background-color: #E5E5E5;
-	color: #FFFFFF;
 	margin: 1rem;
 	padding: 1rem;
 	height: 400px;
