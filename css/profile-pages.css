@@ -1,0 +1,28 @@
+.container1 {
+	background-color: orange;
+}
+
+.navbar {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+.col {
+	background-color: #9E33E5;
+	color: #FFFFFF;
+	padding-top: 2rem;
+	padding: 1rem;
+	text-align: center;
+	border: 2px solid #FFF;
+
+}
+
+.m1 {
+	background-color: #33B5E5;
+}
+
