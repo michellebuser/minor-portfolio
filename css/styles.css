@@ -15,12 +15,13 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 @font-face {
-	font-family: "Space-Mono"
+	font-family: "Space-Mono";
 }
 
 
-body {
-  font: 1rem/1.5 var("Montserrat" -sans-serif);
+h1 {
+	font-family: "Space-Mono";
+  
 }
 
 .hidden {
