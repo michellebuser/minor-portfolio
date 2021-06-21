@@ -27,12 +27,11 @@ body {
 	font-weight: bold;
 }
 
-.main1 {
+.container1 {
 	background-color: orange;
-	width: 100%;
 }
 
-.main2 {
+.container2 {
 	background-color: blue;
 }
 
