@@ -92,6 +92,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	background-color: #F6F6F6;
 	margin: 0;
 	height: 400px;
+	text-align: left;
 }
 
 
