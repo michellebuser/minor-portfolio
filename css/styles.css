@@ -14,7 +14,7 @@ No media query for `xs` since this is the default in Bootstrap */
 @media (min-width: 1200px) { ... }
 
 
-/* navigatie bar (ook container 1) */
+/* navigatiebar  */
 
 .container-fluid {
 	background-color: #FFFFFF;
@@ -30,6 +30,8 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 
+
+/* introductie + afbeeldingen */
 
 .container1 {
 	background-color: #F6F6F6;
@@ -52,6 +54,10 @@ No media query for `xs` since this is the default in Bootstrap */
 	padding-right: 5rem;
 }
 
+
+
+/* persoonlijke ontwikkeling en hexagons */
+
 .container2 {
 	background-color: #FFFFFF;
 	margin: 0;
@@ -73,6 +79,7 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 
+/* masonry afbeeldingen */
 
 .container3 {
 	background-color: #F6F6F6;
