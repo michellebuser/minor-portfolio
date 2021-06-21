@@ -65,6 +65,14 @@ No media query for `xs` since this is the default in Bootstrap */
 	padding-right: 5rem;
 }
 
+.column4 {
+	text-align: left;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
 
 
 .container3 {
