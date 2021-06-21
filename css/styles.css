@@ -15,9 +15,8 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 body {
-	font-family: 'Montserrat', sans-serif;
+  font: 1rem/1.5 var(--bs-font-sans-serif);
 }
-
 
 .hidden {
 	display: none;
