@@ -22,7 +22,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif !important;
 }
 
 
