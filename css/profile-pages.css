@@ -20,6 +20,7 @@ body {
 /*navigation*/
 .container0 {
 	background-color: orange;
+	position: static;
 }
 
 /* photo and introduction */
