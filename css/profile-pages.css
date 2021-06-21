@@ -42,7 +42,8 @@ body {
 
 
 /* columns */
-.col1 {
+
+#name {
 	background-color: #E5E5E5;
 	margin: 1rem;
 	padding: 1rem;
