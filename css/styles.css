@@ -28,12 +28,6 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 
-h2 {
-	font-size: 3em;
-}
-
-
-
 .container1 {
 	background-color: #F6F6F6;
 	margin: 0;
