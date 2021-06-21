@@ -26,8 +26,8 @@ body {
 	font-weight: bold;
 }
 
-.container0 {
-	background-color: orange;
+.container-fluid {
+	background-color: pink;
 	font-family: "Space Mono", sans-serif;
 
 }
