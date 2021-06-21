@@ -22,7 +22,8 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 .navbar {
-	margin: 2rem;
+	margin-left: 2rem;
+	margin-right: 2rem;
 
 }
 
