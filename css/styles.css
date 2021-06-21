@@ -45,6 +45,10 @@ No media query for `xs` since this is the default in Bootstrap */
 	padding-left: 1.5rem;
 }
 
+.container2 {
+	background-color: #FFFFFF;
+}
+
 
 
 
