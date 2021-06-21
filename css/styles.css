@@ -14,23 +14,7 @@ No media query for `xs` since this is the default in Bootstrap */
 @media (min-width: 1200px) { ... }
 
 
-@font-face {
-	font-family: "Space-Mono";
-}
-
-
-h2 {
-	font-family: 'Space-Mono';
-  
-}
-
-.hidden {
-	display: none;
-}
-
-.h6 {
-	font-weight: bold;
-}
+/* navigatie bar (ook container 1) */
 
 .container-fluid {
 	background-color: pink;
@@ -41,6 +25,13 @@ h2 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+.hidden {
+	display: none;
+}
+
+
+
 
 
 
