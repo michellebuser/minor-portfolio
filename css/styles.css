@@ -32,15 +32,19 @@ body {
 
 }
 
-.container1 {
-	background-color: #F6F6F6;
-}
 
 .navbar {
 	margin-left: 10px;
 	margin-right: 10px;
 }
 
+.container1 {
+	background-color: #F6F6F6;
+}
+
+.col {
+	margin: 10px;
+}
 
 
 
