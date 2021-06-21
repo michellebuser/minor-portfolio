@@ -32,7 +32,6 @@ body {
 
 }
 
-
 .navbar {
 	margin-left: 10px;
 	margin-right: 10px;
@@ -40,7 +39,7 @@ body {
 
 
 
-.col {
+#con1 {
 	background-color: orange;
 }
 
