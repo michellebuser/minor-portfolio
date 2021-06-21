@@ -27,8 +27,12 @@ body {
 	font-weight: bold;
 }
 
-.container1 {
+.main1 {
 	background-color: orange;
+}
+
+.main2 {
+	background-color: blue;
 }
 
 .navbar {
