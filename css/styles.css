@@ -84,6 +84,7 @@ No media query for `xs` since this is the default in Bootstrap */
 .container3 {
 	background-color: #F6F6F6;
 	margin: 0;
+	height: 400px;
 }
 
 
