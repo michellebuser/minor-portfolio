@@ -42,7 +42,7 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 .col > h2 {
-	font-size: 40px;
+	font-size: 30px;
 }
 
 
