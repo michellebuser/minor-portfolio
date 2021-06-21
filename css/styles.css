@@ -38,7 +38,6 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 .col {
-	background-color: #F6F6F6;
 	text-align: left;
 	margin-top: 6rem;
 	margin-bottom: 6rem;
