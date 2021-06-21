@@ -39,6 +39,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	background-color: #33B5E5;
 	text-align: left;
 	border: 3px solid #fff;
+	font-weight: 400;
 }
 
 .col > h2 {
