@@ -15,7 +15,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 body {
-  font: 1rem/1.5 var(--bs-font-sans-serif);
+  font: 1rem/1.5 var("Montserrat" -sans-serif);
 }
 
 .hidden {
@@ -33,7 +33,7 @@ body {
 }
 
 .container1 {
-	background-color: blue;
+	background-color: #F6F6F6;
 }
 
 .navbar {
