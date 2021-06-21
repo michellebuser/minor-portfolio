@@ -27,7 +27,7 @@ body {
 	font-weight: bold;
 }
 
-.container1 {
+.con1 {
 	background-color: orange;
 }
 
@@ -46,21 +46,4 @@ body {
 
 
 
-
-/* profile pages */
-
-
-.col {
-	background-color: #9E33E5;
-	color: #FFFFFF;
-	padding-top: 2rem;
-	padding: 1rem;
-	text-align: center;
-	border: 2px solid #FFF;
-
-}
-
-.m1 {
-	background-color: #33B5E5;
-}
 
