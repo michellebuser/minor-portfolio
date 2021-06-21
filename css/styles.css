@@ -45,7 +45,6 @@ No media query for `xs` since this is the default in Bootstrap */
 .container1 {
 	background-color: #F6F6F6;
 	font-family: 'Montserrat', sans-serif;
-	margin: 0;
 }
 
 .column1 {
@@ -77,7 +76,6 @@ h3, h4, h6 {
 .container2 {
 	background-color: #FFFFFF;
 	font-family: 'Montserrat', sans-serif;
-	margin: 0;
 }
 
 .column3 {
@@ -101,7 +99,6 @@ h3, h4, h6 {
 .container3 {
 	background-color: #F6F6F6;
 	font-family: 'Montserrat', sans-serif;
-	margin: 0;
 	height: 400px;
 }
 
@@ -109,7 +106,6 @@ h3, h4, h6 {
 .container4 {
 	background-color: #F6F6F6;
 	font-family: 'Montserrat', sans-serif;
-	margin: 0;
 	height: 400px;
 	text-align: left;
 }
