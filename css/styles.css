@@ -20,7 +20,8 @@ No media query for `xs` since this is the default in Bootstrap */
 	background-color: #FFFFFF;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
-
+	padding-left: 5rem;
+	padding-right: 5rem;
 }
 
 
