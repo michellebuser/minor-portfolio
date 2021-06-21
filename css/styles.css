@@ -35,6 +35,11 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 
+
+.container1 {
+	background-color: #F6F6F6;
+}
+
 .col {
 	background-color: #33B5E5;
 	text-align: left;
