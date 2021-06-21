@@ -43,8 +43,8 @@ No media query for `xs` since this is the default in Bootstrap */
 
 .col {
 	background-color: #F6F6F6;
-	text-align: left;
-	font-weight: 400;
+	text-align: center;
+	margin-top: 1rem;
 }
 
 .col > h2 {
