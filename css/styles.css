@@ -15,7 +15,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 body {
-	font-family: "Proxima Nova", sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -38,6 +38,7 @@ body {
 .navbar {
 	margin-left: 10px;
 	margin-right: 10px;
+	font-family: 'Space Mono', sans-serif;
 }
 
 
