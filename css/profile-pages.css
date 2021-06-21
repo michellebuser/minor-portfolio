@@ -15,17 +15,21 @@ body {
 
 
 
-/* containers */
+/* --- CONTAINERS --- */
+
+/*navigation*/
 .container0 {
 	background-color: orange;
 }
 
+/* photo and introduction */
 .con1 {
 	background-color: #D0CCD0;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
 
+/* blok 1 */
 .con2 {
 	background-color: #EA9E8D;
 	margin-top: 50px;
@@ -33,12 +37,14 @@ body {
 	max-height: 800px;
 }
 
-
+/* blok 2 */
 .con4 {
 	background-color: #DAEFB3;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+
+/* blok 3 */
 
 
 /* columns */
