@@ -33,10 +33,18 @@ No media query for `xs` since this is the default in Bootstrap */
 	margin: 0;
 }
 
-.column {
+.column1 {
 	text-align: left;
 	margin-top: 6rem;
 	margin-bottom: 6rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
+.column2 {
+	text-align: left;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
 	padding-left: 5rem;
 	padding-right: 5rem;
 }
