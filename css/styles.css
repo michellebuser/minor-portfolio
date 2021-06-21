@@ -18,6 +18,8 @@ No media query for `xs` since this is the default in Bootstrap */
 
 .container-fluid {
 	background-color: #FFFFFF;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 
 }
 
