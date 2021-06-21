@@ -33,7 +33,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	margin: 0;
 }
 
-.col {
+.column {
 	text-align: left;
 	margin-top: 6rem;
 	margin-bottom: 6rem;
