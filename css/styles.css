@@ -29,6 +29,8 @@ body {
 
 .container0 {
 	background-color: orange;
+	font-family: 'Space Mono', sans-serif;
+
 }
 
 .container1 {
@@ -38,7 +40,6 @@ body {
 .navbar {
 	margin-left: 10px;
 	margin-right: 10px;
-	font-family: 'Space Mono', sans-serif;
 }
 
 
