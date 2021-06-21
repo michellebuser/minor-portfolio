@@ -53,7 +53,7 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 h3 {
-	font-family: 'Space Mono', monospace bold;
+	font-family: 'Space Mono', monospace;
 }
 
 .column2 {
