@@ -16,17 +16,17 @@ body {
 
 
 /* containers */
-.container1 {
+.container {
 	background-color: orange;
 }
 
-.con2 {
+.con1 {
 	background-color: #D0CCD0;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
 
-.con3 {
+.con2 {
 	background-color: #EA9E8D;
 	margin-top: 50px;
 	margin-bottom: 50px;
