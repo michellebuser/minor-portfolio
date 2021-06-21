@@ -41,6 +41,10 @@ No media query for `xs` since this is the default in Bootstrap */
 	border: 3px solid #fff;
 }
 
+.col > h2 {
+	font-size: 40px;
+}
+
 
 
 
