@@ -3,9 +3,6 @@ body {
 	height: 3000px;
 }
 
-.container1 {
-	background-color: orange;
-}
 
 .navbar {
 	margin-left: 10px;
@@ -19,6 +16,10 @@ body {
 
 
 /* containers */
+.con1 {
+	background-color: orange;
+}
+
 .con2 {
 	background-color: #D0CCD0;
 	margin-top: 50px;
