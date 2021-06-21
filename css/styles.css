@@ -38,12 +38,12 @@ body {
 	margin-right: 10px;
 }
 
-.container {
+.container-fluid {
 	background-color: blue;
 }
 
 .col {
-	background-color: #F6F6F6;
+	background-color: orange;
 }
 
 
