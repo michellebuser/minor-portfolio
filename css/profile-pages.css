@@ -71,6 +71,12 @@ hr {
 	margin: 0;
 }
 
+/* buttons */
+
+.btn {
+	justify-content: center;
+}
+
 
 /* footer */
 .container5 {
