@@ -51,25 +51,21 @@ No media query for `xs` since this is the default in Bootstrap */
 .col1 {
 	background-color: lightgreen;
 	margin: 0;
-	align-content: center;
 }
 
 .col2 {
 	background-color: lightblue;
 	margin: 0;
-	align-content: center;
 }
 
 .col3 {
 	background-color: pink;
 	margin: 0;
-	align-content: center;
 }
 
 .col4 {
 	background-color: violet;
 	margin: 0;
-	align-content: center;
 }
 
 
