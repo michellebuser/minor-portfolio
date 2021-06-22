@@ -46,6 +46,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 .container1 {
 	background-color: bisque;
+	justify-content: left;
 }
 
 .col {
