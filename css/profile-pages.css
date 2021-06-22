@@ -75,5 +75,20 @@ No media query for `xs` since this is the default in Bootstrap */
 	width: 100%;
 }
 
+.col2 img {
+	width: 100%;
+}
+
+
+.col3 img {
+	width: 100%;
+}
+
+
+.col4 img {
+	width: 100%;
+}
+
+
 
 
