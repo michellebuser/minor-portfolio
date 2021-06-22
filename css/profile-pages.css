@@ -49,14 +49,14 @@ No media query for `xs` since this is the default in Bootstrap */
 	margin: 1rem;
 }
 
-.col1 {
+.col1 .col3 {
 	background-color: #F6F6F6;
 	padding: 0;
 	height: 300px;
 	border: solid 2px #F6F6F6;
 }
 
-.col2 {
+.col2 .col4{
 	background-color: lightblue;
 	padding: 0;
 	height: 300px;
@@ -64,21 +64,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	
 }
 
-.col3 {
-	background-color: pink;
-	padding: 0;
-	height: 300px;
-	border: solid 2px #F6F6F6;
-	
-}
 
-.col4 {
-	background-color: violet;
-	padding: 0;
-	height: 300px;
-	border: solid 2px #F6F6F6;
-	
-}
 
 .col1 img {
 	width: 100%;
