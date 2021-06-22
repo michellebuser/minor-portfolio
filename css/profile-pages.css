@@ -52,14 +52,14 @@ No media query for `xs` since this is the default in Bootstrap */
 .col1 {
 	background-color: #F6F6F6;
 	padding: 0;
-	height: 350px;
+	height: 300px;
 	border: solid 2px #F6F6F6;
 }
 
 .col2 {
 	background-color: lightblue;
 	padding: 0;
-	height: 350px;
+	height: 300px;
 	border: solid 2px #F6F6F6;
 	
 }
@@ -67,7 +67,7 @@ No media query for `xs` since this is the default in Bootstrap */
 .col3 {
 	background-color: pink;
 	padding: 0;
-	height: 350px;
+	height: 300px;
 	border: solid 2px #F6F6F6;
 	
 }
@@ -75,7 +75,7 @@ No media query for `xs` since this is the default in Bootstrap */
 .col4 {
 	background-color: violet;
 	padding: 0;
-	height: 350px;
+	height: 300px;
 	border: solid 2px #F6F6F6;
 	
 }
