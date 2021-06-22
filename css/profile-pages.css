@@ -75,6 +75,9 @@ hr {
 
 .btn {
 	background-color: #FFFFFF;
+	color: #000000;
+	border-style: none;
+	border-radius: 0;
 }
 
 
