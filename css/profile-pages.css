@@ -51,6 +51,7 @@ No media query for `xs` since this is the default in Bootstrap */
 .col1 {
 	background-color: lightgreen;
 	margin: 0;
+	padding: 0;
 }
 
 .col2 {
