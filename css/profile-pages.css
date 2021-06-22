@@ -52,7 +52,7 @@ h3, h4, h6 {
 }
 
 
-.container2 {
+.container2, .container3, .container4 {
 	background-color: #FFFFFF;
 	padding: 5rem;
 }
