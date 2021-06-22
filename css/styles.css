@@ -96,10 +96,20 @@ h3, h4, h6 {
 
 /* masonry afbeeldingen */
 
+
 .container3 {
 	background-color: #F6F6F6;
-	font-family: 'Montserrat', sans-serif;
-	height: 400px;
+	padding: 5rem;
+}
+
+.column4 {
+	background-color: #F6F6F6;
+	padding: 0.2rem;
+}
+
+.card {
+	border-radius: 0;
+	border-style: none;
 }
 
 
