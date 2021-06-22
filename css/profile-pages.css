@@ -49,7 +49,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	justify-content: left;
 }
 
-.col {
+.col1 {
 	background-color: lightgreen;
 	margin: 0;
 	align-content: center;
