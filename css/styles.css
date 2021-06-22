@@ -115,7 +115,9 @@ h3, h4, h6 {
 }
 
 
-
+hr {
+	background-color: #F6F6F6;
+}
 
 /* footer */
 .container4 {
