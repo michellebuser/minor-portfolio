@@ -55,3 +55,10 @@ No media query for `xs` since this is the default in Bootstrap */
 	align-content: center;
 }
 
+.col2 {
+	background-color: lightblue;
+	margin: 0;
+	align-content: center;
+}
+
+
