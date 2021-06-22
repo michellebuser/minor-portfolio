@@ -43,7 +43,10 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* --- CONTAINERS --- */
 
-.container1 {
+.card img {
+	width: 100%;
+	transition: 0.3s;
+	border-radius: 4px;
 
 }
 
