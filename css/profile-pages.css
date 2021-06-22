@@ -63,7 +63,7 @@ h3, h4, h6 {
 }
 
 .column8 {
-	align-items: center;
+	justify-content: center;
 }
 
 .card {
