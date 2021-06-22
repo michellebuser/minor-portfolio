@@ -52,7 +52,7 @@ No media query for `xs` since this is the default in Bootstrap */
 .col1 {
 	background-color: lightgreen;
 	padding: 0;
-	height: 300px;
+	height: 350px;
 }
 
 .col2 {
