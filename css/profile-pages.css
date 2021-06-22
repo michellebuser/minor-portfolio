@@ -61,5 +61,15 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 
+/* footer */
+.container5 {
+	background-color: #F6F6F6;
+	font-size: 13px;
+	text-align: left;
+	padding: 5rem;
+}
+
+
+
 
 
