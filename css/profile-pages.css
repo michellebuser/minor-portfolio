@@ -68,9 +68,9 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 .col4 {
-	background-color: lightblue;
+	background-color: violet;
 	margin: 0;
-	align-content: violet;
+	align-content: center;
 }
 
 
