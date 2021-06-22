@@ -46,7 +46,6 @@ No media query for `xs` since this is the default in Bootstrap */
 
 .container1 {
 	background-color: bisque;
-	max-width: 1vh;
 }
 
 .col1 {
