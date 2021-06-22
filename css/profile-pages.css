@@ -48,4 +48,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	background-color: bisque;
 }
 
+.col {
+	background-color: lightgreen;
+}
 
