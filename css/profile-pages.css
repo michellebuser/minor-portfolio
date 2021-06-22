@@ -52,8 +52,6 @@ No media query for `xs` since this is the default in Bootstrap */
 .col1 {
 	background-color: #F6F6F6;
 	padding: 0;
-	height: 300px;
-	border: solid 2px #F6F6F6;
 }
 
 
