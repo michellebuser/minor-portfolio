@@ -46,6 +46,11 @@ h3, h4, h6 {
 
 /* --- CONTAINERS --- */
 
+.container1 {
+	background-color: #F6F6F6;
+	padding: 5rem;
+}
+
 
 .container2 {
 	background-color: #F6F6F6;
