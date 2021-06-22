@@ -50,9 +50,10 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 .col1 {
-	background-color: lightgreen;
+	background-color: #F6F6F6;
 	padding: 0;
 	height: 350px;
+	border: solid 2px #F6F6F6;
 }
 
 .col2 {
