@@ -59,6 +59,9 @@ No media query for `xs` since this is the default in Bootstrap */
 	border-style: none;
 }
 
+hr {
+	margin: 0;
+}
 
 
 /* footer */
