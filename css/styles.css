@@ -105,10 +105,14 @@ h3, h4, h6 {
 /* footer */
 .container4 {
 	background-color: #F6F6F6;
-	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
+	font
 	height: 400px;
 	text-align: left;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
 }
 
 
