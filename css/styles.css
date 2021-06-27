@@ -49,7 +49,6 @@ No media query for `xs` since this is the default in Bootstrap */
 
 .container1 {
 	background-color: #F6F6F6;
-	font-family: 'Montserrat', sans-serif;
 }
 
 .column1 {
@@ -66,13 +65,10 @@ h3, h4, h6 {
 }
 
 p {
-	font-family: 'Space Mono', monospace;
-}
-
-
-.text {
 	font-family: 'Montserrat', sans-serif;
 }
+
+
 
 .column2 {
 	text-align: left;
