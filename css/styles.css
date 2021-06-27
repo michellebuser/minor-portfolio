@@ -27,18 +27,24 @@ body {
 
 /* navigatiebar  */
 
-.container-fluid {
+.container {
 	background-color: #FFFFFF;
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	padding-left: 5rem;
-	padding-right: 5rem;
+}
+
+.collapse {
+	font-family: 'Space Mono', monospace;
+}
+
+.nav-link {
+	font-size: 16px;
+	color: #000000;
 }
 
 
 .hidden {
 	display: none;
 }
+
 
 
 
