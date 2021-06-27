@@ -65,6 +65,10 @@ h3, h4, h6 {
 	font-style: bold;
 }
 
+p {
+	font-family: 'Space Mono', monospace;
+}
+
 
 .text {
 	font-family: 'Montserrat', sans-serif;
