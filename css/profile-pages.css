@@ -32,6 +32,10 @@ h3, h4, h6 {
 	background-color: #F0F0F0;
 }
 
+.collapse {
+	font-family: 'Space Mono', monospace;
+}
+
 
 .hidden {
 	display: none;
