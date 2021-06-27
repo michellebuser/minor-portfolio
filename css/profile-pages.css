@@ -28,8 +28,8 @@ h3, h4, h6 {
 
 /* navigatiebar  */
 
-.container-fluid {
-	background-color: #FFFFFF;
+.container {
+	background-color: #F0F0F0;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	padding-left: 5rem;
