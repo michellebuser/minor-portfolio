@@ -17,14 +17,14 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-
+@import url("http://fonts.googleapis.com/css?family=Montserrat:400,300,700");
 
 h3, h4, h6 {
 	font-family: 'Space Mono', monospace;	
 }
 
-p {
-	font-family: 'Montserrat', sans-serif;
+body {
+  font-family: 'Montserrat', sans-serif !important;
 }
 
 
