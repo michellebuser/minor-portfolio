@@ -17,7 +17,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-
+$font-family-sans-serif: system-ui, -apple-system, "Montserrat", sans-serif;
 
 
 
