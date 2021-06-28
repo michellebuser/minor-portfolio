@@ -17,9 +17,9 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-body > element.style {
-	font-family: 'Montserrat', sans-serif;
-}
+
+
+
 /* navigatiebar  */
 
 .container {
@@ -47,6 +47,7 @@ body > element.style {
 
 .container1 {
 	background-color: #F6F6F6;
+
 }
 
 .name {
