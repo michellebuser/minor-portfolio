@@ -17,12 +17,9 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-h3, h4, h6, {
-	font-family: 'Space Mono', monospace;	
+h3, h4, h6 {
+	font-family: 'Space Mono', monospace;
 }
-
-
-
 
 
 
