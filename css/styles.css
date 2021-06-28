@@ -112,8 +112,14 @@ h4, h6 {
 
 
 
-/* FOOTER */
+/* LIJN */
 .container4 {
+	background-color: #F6F6F6;
+	padding: 5rem;
+}
+
+/* FOOTER */
+.container5 {
 	background-color: #F6F6F6;
 	font-size: 13px;
 	text-align: left;
