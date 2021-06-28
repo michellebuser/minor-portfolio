@@ -52,6 +52,7 @@ h3, h4, h6 {
 
 .container1 {
 	background-color: #F6F6F6;
+	font-size: 14px;
 	padding: 5rem;
 }
 
@@ -62,7 +63,9 @@ h3, h4, h6 {
 
 .container2, .container3, .container4 {
 	background-color: #FFFFFF;
+	font-size: 14px;
 	padding: 5rem;
+
 }
 
 .column7 {
