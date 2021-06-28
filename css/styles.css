@@ -115,7 +115,8 @@ h4, h6 {
 /* LIJN */
 .container4 {
 	background-color: #F6F6F6;
-	padding: 5rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
 }
 
 /* FOOTER */
