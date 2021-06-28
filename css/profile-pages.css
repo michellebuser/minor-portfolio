@@ -38,6 +38,7 @@ p {
 
 .collapse {
 	font-family: 'Space Mono', monospace;
+	font-weight: 400;
 }
 
 .nav-link {
