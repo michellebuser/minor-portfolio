@@ -17,7 +17,9 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-
+element.style {
+	font-family: 'Montserrat', sans-serif;
+}
 /* navigatiebar  */
 
 .container {
