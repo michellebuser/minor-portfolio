@@ -53,6 +53,11 @@ No media query for `xs` since this is the default in Bootstrap */
 	background-color: #F6F6F6;
 }
 
+.name {
+	text-decoration: none;
+	
+}
+
 .column1 {
 	text-align: left;
 	margin-top: 6rem;
