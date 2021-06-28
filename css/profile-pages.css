@@ -98,9 +98,16 @@ hr {
   cursor: pointer;
 }
 
+/* LIJN */
+.container5 {
+	background-color: #F6F6F6;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
 
 /* footer */
-.container5 {
+.container6 {
 	background-color: #F6F6F6;
 	font-size: 12px;
 	text-align: left;
