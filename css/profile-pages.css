@@ -17,7 +17,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-h3, h4, h6 {
+h3, h4, h6, {
 	font-family: 'Space Mono', monospace;	
 }
 
@@ -100,17 +100,26 @@ hr {
 
 
 /* footer */
-.container4 {
+.container5 {
 	background-color: #F6F6F6;
 	font-size: 13px;
 	text-align: left;
 	padding: 5rem;
 }
 
-.fa {
-	text-decoration: none;
+.column {
+	line-height: 0.5;
 }
 
+.fa {
+	text-decoration: none;
+	font-size: 20px; 
+	color: #5FB7C0;
+}
+
+.mail {
+	color: #000000;
+}
 
 
 
