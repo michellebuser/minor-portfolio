@@ -17,13 +17,17 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* fonts */
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 
 h3, h4, h6 {
-	font-family: 'Space Mono', monospace;
-	font-style: bold;
+	font-family: 'Space Mono', monospace;	
 }
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
 
 
 /* navigatiebar  */
