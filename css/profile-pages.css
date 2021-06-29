@@ -120,6 +120,10 @@ hr {
 	color: #5FB7C0;
 }
 
+.fa:hover {
+	color: #55A3AB;
+}
+
 .mail {
 	color: #000000;
 	text-decoration: underline;
