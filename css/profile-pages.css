@@ -122,6 +122,27 @@ hr {
 	color: #000000;
 }
 
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.charmaine:hover {
+	color: #F1C3C1;
+}
+
+.jerney:hover {
+	color: #F4F3AB;
+}
+
+.ryan:hover {
+	color: #C4E4E7;
+}
+
+.michelle:hover {
+	color: #D3E6C7;
+}
+
 
 
 
