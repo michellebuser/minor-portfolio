@@ -19,10 +19,12 @@ No media query for `xs` since this is the default in Bootstrap */
 
 h4, h6 {
 	font-family: 'Space Mono', monospace;
+	font-weight: bold;
 }
 
 h6 {
 	font-size: 12px;
+	font-weight: bold;
 }
 
 /* navigatiebar  */
