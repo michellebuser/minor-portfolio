@@ -2,10 +2,27 @@
 No media query for `xs` since this is the default in Bootstrap */
 
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) { ... }
+@media (min-width: 576px) {
+
+	.column2 {
+		margin-top: 1rem;
+	}
+
+
+
+
+
+}
 
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) { ... }
+@media (min-width: 768px) {
+
+	.column2 {
+		margin-top: 1rem;
+	}
+
+
+}
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { ... }
@@ -69,7 +86,6 @@ h6 {
 	background-color: #FFFFFF;
 	font-size: 14px;
 	padding: 5rem;
-
 }
 
 
