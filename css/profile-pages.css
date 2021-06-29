@@ -50,6 +50,7 @@ h6 {
 /* BACKGROUND */
 .bg-charmaine {
 	background-image: url("images/charmaine/background.png");
+	height: 100%;
 }
 
 
