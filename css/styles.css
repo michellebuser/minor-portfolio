@@ -23,10 +23,6 @@ h6 {
 	font-size: 12px;
 }
 
-h6 > .fw-bold {
-	text-decoration: none;
-	color: #000000;
-}
 
 
 /* NAVIGATIEBAR  */
@@ -75,7 +71,6 @@ h6 > .fw-bold {
 	margin-bottom: 2rem;
 	padding-left: 5rem;
 	padding-right: 5rem;
-
 }
 
 
@@ -128,6 +123,7 @@ h6 > .fw-bold {
 	padding-right: 5rem;
 }
 
+
 /* FOOTER */
 .container5 {
 	background-color: #F6F6F6;
@@ -147,6 +143,11 @@ h6 > .fw-bold {
 }
 
 .mail {
+	color: #000000;
+}
+
+a {
+	text-decoration: none;
 	color: #000000;
 }
 
