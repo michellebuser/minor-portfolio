@@ -16,6 +16,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 
 /* FONTS */
+
 h4, h6 {
 	font-family: 'Space Mono', monospace;
 	font-weight: bold;
@@ -46,7 +47,10 @@ h6 {
 	display: none;
 }
 
-
+/* BACKGROUND */
+.bg-charmaine {
+	background-image: url("images/charmaine/background.png");
+}
 
 
 /* --- CONTAINERS & COLUMNS--- */
