@@ -21,7 +21,9 @@ h3, h4, h6 {
 	font-family: 'Space Mono', monospace;
 }
 
-
+h6 {
+	font-size: 12px;
+}
 
 /* navigatiebar  */
 
