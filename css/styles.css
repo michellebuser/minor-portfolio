@@ -23,6 +23,11 @@ h6 {
 	font-size: 12px;
 }
 
+h6 > .fw-bold {
+	text-decoration: none;
+	color: #000000;
+}
+
 
 /* NAVIGATIEBAR  */
 .container {
