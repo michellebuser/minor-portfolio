@@ -34,6 +34,10 @@ h6 {
 	font-family: 'Space Mono', monospace;
 }
 
+.navbar-nav {
+	justify-content: space-around;
+}
+
 .nav-link {
 	font-size: 14px;
 	color: #000000;
