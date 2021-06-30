@@ -64,13 +64,14 @@ h6 {
 	font-size: 14px;
 	padding-left: 5rem;
 	padding-right: 5rem;
-	padding-top: 1rem;
+	padding-top: 2rem;
 }
 
 
 .column4 {
-	margin-top: 20.5rem;
+	margin-top: 20rem;
 }
+
 
 .column6 {
 	margin-top: 8rem;
@@ -80,7 +81,16 @@ h6 {
 	margin-top: 6rem;
 }
 
-.container3, .container4 {
+
+.container3 {
+	font-size: 14px;
+	padding-left: 5rem;
+	padding-right: 5rem;
+	padding-top: 18rem;
+}
+
+
+.container4 {
 	font-size: 14px;
 	padding: 5rem;
 }
