@@ -67,20 +67,21 @@ h6 {
 	padding-left: 5rem;
 	padding-right: 5rem;
 	padding-top: 2rem;
+	padding-bottom: 10rem;
 }
 
 .column4 {
-	margin-top: 19.5rem;
+	padding-top: 19.5rem;
 }
 
 .column6 {
-	margin-top: 7rem;
+	padding-top: 7rem;
 }
 
 
 /* MASONRY BLOK 1 */
 .column7 {
-	margin-top: 5rem;
+	padding-top: 5rem;
 	padding: 0.2rem;
 }
 
@@ -92,13 +93,33 @@ h6 {
 
 
 
+
+
 /* --- BLOK 2 --- */
 .container3 {
 	font-size: 14px;
 	padding-left: 5rem;
 	padding-right: 5rem;
-	padding-top: 18rem;
+	padding-top: 10rem;
+	padding-bottom: 9rem;
 }
+
+.column8 {
+	padding-top: 2rem;
+}
+
+.column9 {
+	padding-top: 19.5rem;
+}
+
+.column10 {
+	padding-top: 2rem;
+}
+
+.column11 {
+	padding-top: 5rem;
+}
+
 
 /* MASONRY BLOK 2 */
 .column12 {
@@ -117,6 +138,7 @@ h6 {
 .container4 {
 	font-size: 14px;
 	padding: 5rem;
+	padding-top: 10rem;
 }
 
 
