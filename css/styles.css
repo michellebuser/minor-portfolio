@@ -70,25 +70,26 @@ h6 {
 }
 
 .column2 {
-	text-align: left;
+	
+}
+
+#hex1 {
+	width: 80%;
+}
+
+#hex2 {
+	padding-top: 9rem;
+	margin-left: -8rem;
+	width: 80%;
+}
+#hex3 {
+	margin-top: -7rem;
+	width: 80%;
+}
+#hex4 {
 	margin-top: 2rem;
-	margin-bottom: 2rem;
-	padding-left: 5rem;
-	padding-right: 5rem;
-}
-
-.hex-1 {
-	margin-bottom: 2rem;
-}
-
-.hex2 {
-	margin-bottom: 10px;
-}
-.hex3 {
-	margin-bottom: 10px;
-}
-.hex4 {
-	margin-bottom: 10px;
+	margin-left: -8rem;
+	width: 80%;
 }
 
 
