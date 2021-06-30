@@ -3,11 +3,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/ScrollTrigger.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/ScrollToPlugin.min.js"></script>
+	<script type="text/javascript" src="js/animation.js"></script>
 
 
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/profile-pages.css">
+	<link rel="stylesheet" type="text/css" href="css/interactions.css">
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,29 +24,29 @@
 <body style="font-family: 'Montserrat', sans-serif;">
 
 	<div class="container">
-		<nav class="navbar navbar-expand-md navbar-light">
+		<nav class="navbar navbar-expand-md navbar-light fixed-top">
 			<a href="index.html" class="navbar-brand"><img src="images/logo.png" alt="Hexagon Logo" width="60" height="24" class="d-inline-block align-top" /> <span class="hidden">Minor Portfolio</span></a>
 
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggleMobileMenu" aria-controls="toggleMobileMenu" aria-expanded="false" aria-lable="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 
 			<div class="collapse navbar-collapse" id="toggleMobileMenu">
 				<ul class="navbar-nav ms-auto">
-					<li><a class="nav-link" href="index.html">Home</a></li>
-					<li><a class="nav-link" href="profile-charmaine.html">Charmaine Akodi</a></li>
-					<li><a class="nav-link" href="profile-jerney.html">Jerney Pompe</a></li>
-					<li><a class="nav-link" href="profile-ryan.html">Ryan Karia</a></li>
-					<li><a class="nav-link" href="profile-michelle.html">Michelle Buser</a></li>							
+					<li><a class="nav-link index-menu" href="index.html">Home</a></li>
+							<li><a class="nav-link charmaine-menu" href="profile-charmaine.html">Charmaine Akodi</a></li>
+							<li><a class="nav-link jerney-menu" href="profile-jerney.html">Jerney Pompe</a></li>
+							<li><a class="nav-link ryan-menu" href="profile-ryan.html">Ryan Karia</a></li>
+							<li><a class="nav-link michelle-menu current" href="profile-michelle.html">Michelle Buser</a></li>									
 				</ul>
 			</div>
 		</nav>
 	</div>
 
 
-	<div class="container1">
+	<div class="container1 fade-container">
 		<div class="row">
 			<div class="column1 col-lg-5 col-md-6 col-sm-12">
 				<img src="images/michelle/hexagon.png" width="350" height="300">
-				<h4>Michelle Buser</h4>				
+				<h4>Michelle <br/> Buser</h4>				
 			</div>
 			<div class="column2 col-lg-7 col-md-6 col-sm-12">
 				<h4>Hoi,</h4>
@@ -52,6 +57,7 @@
 	</div>
 
 	<!-- BLOK 1 -->
+<<<<<<< HEAD
 	<div>
 		<div class="container2">
 			<div class="row">
@@ -64,6 +70,15 @@
 				<div class="column3 col-lg-1 col-md-4 col-sm-12">
 					<p class="fw-bold">Blok 3</p>				
 				</div>		
+=======
+	<div class="container2 fade-container">
+		<div class="row">
+			<div class="column3 col-lg-1 col-md-12 col-sm-12">
+				<p class="fw-bold">Blok 1</p>				
+			</div>	
+			<div class="column3 col-lg-1 col-md-12 col-sm-12">
+				<p class="fw-bold">Blok 2</p>				
+>>>>>>> animations
 			</div>
 			<div class="row">
 				<div class="column4 col-lg-12 col-md-12 col-sm-12">
@@ -105,6 +120,7 @@
 					</div>				
 				</div>
 
+<<<<<<< HEAD
 				<div class="column7 col-lg-4 col-md-6 col-sm-12">
 					<div class="card">
 						<img src="images/michelle/blok1_afbeelding2.png">						
@@ -116,6 +132,16 @@
 						<img src="images/michelle/blok1_afbeelding3.png">			
 					</div>				
 				</div>
+=======
+	<!-- BLOK 2 -->
+	<div class="container3 fade-container">
+		<div class="row">
+			<div class="column3 col-lg-1 col-md-12 col-sm-12">
+				<p class="fw-bold">Blok 1</p>				
+			</div>	
+			<div class="column3 col-lg-1 col-md-12 col-sm-12">
+				<p class="fw-bold">Blok 2</p>				
+>>>>>>> animations
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center">
@@ -192,6 +218,7 @@
 			</div>			
 		</div>
 
+<<<<<<< HEAD
 		<!-- BLOK 3 -->
 		<div class="container4">
 			<div class="row">
@@ -204,6 +231,16 @@
 				<div class="column3 col-lg-1 col-md-4 col-sm-12">
 					<p class="fw-bold">Blok 3</p>				
 				</div>		
+=======
+	<!-- BLOK 3 -->
+	<div class="container4 fade-container">
+		<div class="row">
+			<div class="column3 col-lg-1 col-md-12 col-sm-12">
+				<p class="fw-bold">Blok 1</p>				
+			</div>	
+			<div class="column3 col-lg-1 col-md-12 col-sm-12">
+				<p class="fw-bold">Blok 2</p>				
+>>>>>>> animations
 			</div>
 			<div class="row">
 				<div class="column4 col-lg-12 col-md-12 col-sm-12">
