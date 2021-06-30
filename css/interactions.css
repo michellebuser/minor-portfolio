@@ -4,6 +4,11 @@
     transition: border 0.3s;
 }
 
+.index-menu {
+    border-bottom: 0px solid white;
+    transition: border 0.3s;
+}
+
 .index-menu.current {
     border-bottom: 2px solid grey;
     transition: border 0.3s;
@@ -11,6 +16,11 @@
 
 .charmaine-menu:hover {
     border-bottom: 2px solid #F1C3C1;
+    transition: border 0.3s;
+}
+
+.charmaine-menu {
+    border-bottom: 0px solid white;
     transition: border 0.3s;
 }
 
@@ -24,6 +34,11 @@
     transition: border 0.3s;
 }
 
+.jerney-menu {
+    border-bottom: 0px solid white;
+    transition: border 0.3s;
+}
+
 .jerney-menu.current {
     border-bottom: 2px solid #F8F7C9;
     transition: border 0.3s;
@@ -34,6 +49,11 @@
     transition: border 0.3s;
 }
 
+.ryan-menu {
+    border-bottom: 0px solid white;
+    transition: border 0.3s;
+}
+
 .ryan-menu.current {
     border-bottom: 2px solid #DCEFF1;
     transition: border 0.3s;
@@ -41,6 +61,11 @@
 
 .michelle-menu:hover {
     border-bottom: 2px solid #D3E6C7;
+    transition: border 0.3s;
+}
+
+.michelle-menu {
+    border-bottom: 0px solid white;
     transition: border 0.3s;
 }
 
