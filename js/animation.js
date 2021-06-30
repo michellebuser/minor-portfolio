@@ -30,8 +30,19 @@ ScrollTrigger.batch('.card', {
 onLeave: (batch) => gsap.to(batch, { opacity: 0, y: 0, stagger: stagger, duration: duration }),
 onEnterBack: (batch) => gsap.to(batch, { opacity: 1, y: 0, stagger: stagger, duration: duration }),
 onLeaveBack: (batch) => gsap.to(batch, { opacity: 0, y: 20, stagger: stagger, duration: duration }),
-start: '100 bottom',
-end: 'center top',
+start: 'center bottom+=100',
+end: 'center top+=50',
+//markers: true
+  });
+
+gsap.set('.mason', { opacity: 0});
+const stagger2 = 0.1;
+
+ScrollTrigger.batch('.mason', {
+  interval: 0.1,
+  onEnter: (batch) => gsap.to(batch, { opacity: 1, y: 0, stagger: stagger2, duration: duration }),
+start: 'center bottom',
+end: 'top top',
 //markers: true
   });
 
