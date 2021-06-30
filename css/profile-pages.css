@@ -48,9 +48,11 @@ h6 {
 }
 
 /* BACKGROUND */
-.bg-charmaine {
-	background-image: url("images/charmaine/background.png");
-	height: 100%;
+.container-fluid {
+	background-image: url(images/michelle/bg-lint.svg); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	margin-top: -3em;
 }
 
 
@@ -66,7 +68,6 @@ h6 {
 }
 
 .container2 {
-	background-color: #FFFFFF;
 	font-size: 14px;
 	padding-left: 5rem;
 	padding-right: 5rem;
@@ -77,25 +78,6 @@ h6 {
 	margin: 0;
 }
 
-.row-blok-c {
-	background-color: #F1C3C1;
-	padding-top: 15px;
-}
-
-.row-blok-j {
-	background-color: #F4F3AB;
-	padding-top: 15px;
-}
-
-.row-blok-r {
-	background-color: #C4E4E7;
-	padding-top: 15px;
-}
-
-.row-blok-m {
-	background-color: #D3E6C7;
-	padding-top: 15px;
-}
 
 .column4 {
 	margin-top: 150px;
@@ -103,7 +85,6 @@ h6 {
 
 
 .container3, .container4 {
-	background-color: #FFFFFF;
 	font-size: 14px;
 	padding: 5rem;
 }
@@ -111,7 +92,6 @@ h6 {
 
 /* MASONRY */
 .column7 {
-	background-color: #FFFFFF;
 	padding: 0.2rem;
 }
 
