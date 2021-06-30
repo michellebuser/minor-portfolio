@@ -1,0 +1,71 @@
+/* Hover menu */
+.index-menu:hover {
+    border-bottom: 2px solid grey;
+    transition: border 0.3s;
+}
+
+.index-menu.current {
+    border-bottom: 2px solid grey;
+    transition: border 0.3s;
+}
+
+.charmaine-menu:hover {
+    border-bottom: 2px solid #F1C3C1;
+    transition: border 0.3s;
+}
+
+.charmaine-menu.current {
+    border-bottom: 2px solid #F1C3C1;
+    transition: border 0.3s;
+}
+
+.jerney-menu:hover {
+    border-bottom: 2px solid #F8F7C9;
+    transition: border 0.3s;
+}
+
+.jerney-menu.current {
+    border-bottom: 2px solid #F8F7C9;
+    transition: border 0.3s;
+}
+
+.ryan-menu:hover {
+    border-bottom: 2px solid #DCEFF1;
+    transition: border 0.3s;
+}
+
+.ryan-menu.current {
+    border-bottom: 2px solid #DCEFF1;
+    transition: border 0.3s;
+}
+
+.michelle-menu:hover {
+    border-bottom: 2px solid #D3E6C7;
+    transition: border 0.3s;
+}
+
+.michelle-menu.current {
+    border-bottom: 2px solid #D3E6C7; 
+}
+
+.logo-anim:hover {
+    animation: bounce linear 1s 0.1s;
+}
+
+.navbar {
+    background: white;
+}
+
+.navbar-brand {
+    margin-left: 5vw;
+}
+
+.navbar-nav {
+    margin-right: 5vw;
+}
+
+@keyframes bounce {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-5px); }
+    100% { transform: translateY(0); }
+}
