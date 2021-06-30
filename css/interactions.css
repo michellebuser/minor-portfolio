@@ -52,6 +52,17 @@
     animation: bounce linear 1s 0.1s;
 }
 
+.navbar {
+    background: white;
+}
+
+.navbar-brand {
+    margin-left: 5vw;
+}
+
+.navbar-nav {
+    margin-right: 5vw;
+}
 
 @keyframes bounce {
     0%   { transform: translateY(0); }
