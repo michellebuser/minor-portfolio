@@ -102,3 +102,22 @@
 body {
     overflow-x: hidden;
 }
+
+.up {
+    background: gray;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    float: right;
+}
+
+.upcontainer {
+    height: 50px;
+    z-index: -1;
+    margin-top: -50px;
+}
+
+.svg-to-top:hover {
+    animation: bounce linear 1s 0.1s;
+}
