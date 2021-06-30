@@ -74,15 +74,13 @@ h6 {
 }
 
 .column6 {
-	margin-top: 8rem;
+	margin-top: 7rem;
 }
 
-.column7 {
-	margin-top: 6rem;
-}
 
 /* MASONRY BLOK 1 */
 .column7 {
+	margin-top: 5rem;
 	padding: 0.2rem;
 }
 
@@ -115,7 +113,7 @@ h6 {
 
 
 
-
+/* --- BLOK 3 --- */
 .container4 {
 	font-size: 14px;
 	padding: 5rem;
