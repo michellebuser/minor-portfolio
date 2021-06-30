@@ -122,6 +122,11 @@ h6 {
 	padding: 5rem;
 }
 
+.column18 {
+	padding-left: 4rem;
+	line-height: 0.5;
+}
+
 .column {
 	line-height: 0.5;
 }
