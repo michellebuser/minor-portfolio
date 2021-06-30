@@ -56,8 +56,10 @@ h6 {
 	padding: 5rem;
 }
 
-.mail {
+.mail-1 {
 	color: #000000;
+	text-decoration: underline;
+	padding-right: 1rem;
 }
 
 .container2 {
