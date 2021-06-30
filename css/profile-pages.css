@@ -49,7 +49,7 @@ h6 {
 
 
 
-/* --- INTRODUCTION --- */
+/* --- CONTAINERS & COLUMNS--- */
 .container1 {
 	background-color: #F6F6F6;
 	font-size: 14px;
@@ -60,109 +60,32 @@ h6 {
 	color: #000000;
 }
 
-
-/* --- BLOK 1 --- */
 .container2 {
 	font-size: 14px;
 	padding-left: 5rem;
 	padding-right: 5rem;
-	padding-top: 2rem;
-	padding-bottom: 10rem;
+	padding-top: 1rem;
 }
 
+.column3 {
+	margin: 0;
+}
 
 
 .column4 {
-	padding-top: 19.5rem;
-}
-
-.column6 {
-	padding-top: 7rem;
+	margin-top: 150px;
 }
 
 
-/* MASONRY BLOK 1 */
-.column7 {
-	padding-top: 5rem;
-	padding: 0.2rem;
-}
-
-.card {
-	border-radius: 0;
-	border-style: none;
-}
-
-
-
-
-
-
-/* --- BLOK 2 --- */
-.container3 {
-	font-size: 14px;
-	padding-left: 5rem;
-	padding-right: 5rem;
-	padding-top: 10rem;
-	padding-bottom: 8rem;
-}
-
-.column8 {
-	padding-top: 2rem;
-}
-
-.column9 {
-	padding-top: 19.5rem;
-}
-
-.column10 {
-	padding-top: 2rem;
-}
-
-.column11 {
-	padding-top: 5rem;
-}
-
-
-/* MASONRY BLOK 2 */
-.column12 {
-	padding-top: 2rem;
-}
-
-.card {
-	border-radius: 0;
-	border-style: none;
-}
-
-
-
-
-/* --- BLOK 3 --- */
-.container4 {
+.container3, .container4 {
 	font-size: 14px;
 	padding: 5rem;
-	padding-top: 8rem;
-}
-
-.column13 {
-	padding-top: 2rem;
-}
-
-.column14 {
-	padding-top: 19.5rem;
-}
-
-.column15 {
-	padding-top: 2rem;
-}
-
-.column16 {
-	padding-top: 5rem;
 }
 
 
-/* MASONRY BLOK 3 */
-.column17 {
-	padding-top: 5rem;
+/* MASONRY */
+.column7 {
+	padding: 0.2rem;
 }
 
 .card {
