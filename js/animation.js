@@ -1,33 +1,37 @@
-// const element = document.querySelector('svg');
-// const button = document.querySelector('logo');
-// const path = element.querySelectorAll('path');
+gsap.registerPlugin(ScrollTrigger);
 
-// let totalLength = 4;
 
-// function initPath(path){
-//    totalLength = path.getTotalLength();
-//    path.style.strokeDasharray = `${totalLength}`;
-//    path.style.strokeDashoffset = totalLength;
-// }
+document.addEventListener("DOMContentLoaded", function(event){
 
-// function animatePath(){
-//   path.classList.add("bounce");
-//   path.style.strokeDashoffset = 0;   
-// }
+const duration = 2;
 
-// button.addEventListener('mouseOver', ()=>{
-//   animatePath()
-// })
 
-const boxes = gsap.utils.toArray('.fade-container');
+gsap.defaults({ ease: 'power3' });
+gsap.set('.fade-container', { opacity: 0});
 
-boxes.forEach((box, i) => {
-  ScrollTrigger.create({
-    trigger: box,
-    toggleClass: 'active',
-    // this toggles the class again when you scroll back up:
-    toggleActions: 'play none none none',
-    // this removes the class when the scrolltrigger is passed:
-    // once: true,
+ScrollTrigger.batch('.fade-container', {
+  interval: 0.1,
+  onEnter: (batch) => gsap.to(batch, { opacity: 1, y: 0, duration: duration }),
+  onLeave: (batch) => gsap.to(batch, { opacity: 0, y: 0, duration: duration }),
+  onEnterBack: (batch) => gsap.to(batch, { opacity: 1, y: 0, duration: duration }),
+  onLeaveBack: (batch) => gsap.to(batch, { opacity: 0, y: 20,  duration: duration }),
+  start: '100 bottom',
+  end: 'center top',
+  markers: true
   });
+
+gsap.set('.card', { opacity: 0});
+const stagger = 0.2;
+
+ScrollTrigger.batch('.card', {
+  interval: 0.1,
+  onEnter: (batch) => gsap.to(batch, { opacity: 1, y: 0, stagger: stagger, duration: duration }),
+onLeave: (batch) => gsap.to(batch, { opacity: 0, y: 0, stagger: stagger, duration: duration }),
+onEnterBack: (batch) => gsap.to(batch, { opacity: 1, y: 0, stagger: stagger, duration: duration }),
+onLeaveBack: (batch) => gsap.to(batch, { opacity: 0, y: 20, stagger: stagger, duration: duration }),
+start: '100 bottom',
+end: 'center top',
+markers: true
+  });
+
 });

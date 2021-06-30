@@ -52,6 +52,7 @@
     animation: bounce linear 1s 0.1s;
 }
 
+
 @keyframes bounce {
     0%   { transform: translateY(0); }
     50%  { transform: translateY(-5px); }
