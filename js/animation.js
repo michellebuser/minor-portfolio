@@ -18,7 +18,7 @@ ScrollTrigger.batch('.fade-container', {
   onLeaveBack: (batch) => gsap.to(batch, { opacity: 0, y: 20,  duration: duration }),
   start: '100 bottom',
   end: 'center top',
-  markers: true
+  //markers: true
   });
 
 gsap.set('.card', { opacity: 0});
@@ -32,7 +32,7 @@ onEnterBack: (batch) => gsap.to(batch, { opacity: 1, y: 0, stagger: stagger, dur
 onLeaveBack: (batch) => gsap.to(batch, { opacity: 0, y: 20, stagger: stagger, duration: duration }),
 start: '100 bottom',
 end: 'center top',
-markers: true
+//markers: true
   });
 
 });
