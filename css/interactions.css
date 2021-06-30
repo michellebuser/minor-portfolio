@@ -82,11 +82,15 @@
 }
 
 .navbar-brand {
-    margin-left: 5vw;
+    margin-left: 3vw;
 }
 
 .navbar-nav {
-    margin-right: 5vw;
+    margin-right: 3vw;
+}
+
+.container1 {
+    margin-top: 3vw;
 }
 
 @keyframes bounce {
