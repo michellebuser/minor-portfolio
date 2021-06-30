@@ -18,7 +18,7 @@ ScrollTrigger.batch('.fade-container', {
   onLeaveBack: (batch) => gsap.to(batch, { opacity: 0, y: 20,  duration: duration }),
   start: '100 bottom',
   end: 'center top',
-  markers: true
+  //markers: true
   });
 
   // window.homepagecheck = function() {
