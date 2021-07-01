@@ -213,3 +213,24 @@ body {
 #hex4 {
     transition: ease 0.5s;
 }
+
+.scrollsvg {
+    animation: bounce infinite 1s reverse;
+    margin-left: 1.4vw;
+    margin-bottom: 0.5vw;
+}
+
+.scroll-down {
+    margin-top: 15vw;
+}
+
+/* INTRO ANIMATIONS */
+
+.container1 > .row > .column1, .column2 {
+    animation: insert linear 1s 0s !important; 
+}
+
+@keyframes insert {
+    0% { transform: translateY(20px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+}
