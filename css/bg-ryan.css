@@ -1,4 +1,10 @@
 /* --- BLOK 1 --- */
+@media (max-width: 576px) { 
+.invisibles {
+	background-image: none !important;
+	}
+}
+
 .container2 {
 	font-size: 14px;
 	padding-left: 5rem;
