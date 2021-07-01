@@ -265,3 +265,8 @@ body {
     opacity: 1;
     animation: insert linear 2s 0s !important; 
 }
+
+
+.btn {
+    background-color: transparent;
+}
