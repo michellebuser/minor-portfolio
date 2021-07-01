@@ -226,11 +226,42 @@ body {
 
 /* INTRO ANIMATIONS */
 
-.container1 > .row > .column1, .column2 {
+.container1-home > .row > .column1, .container1-home > .row > .column2 {
     animation: insert linear 1s 0s !important; 
 }
 
 @keyframes insert {
     0% { transform: translateY(20px); opacity: 0; }
     100% { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes lefts {
+    0% { transform: translateX(-20px); opacity: 0; }
+    50% { transform: translateX(-10px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+}
+
+.intro-animation > .row > .column1 > img {
+    opacity: 1;
+    animation: lefts linear 0.4s 0s;
+}
+
+.intro-animation > .row > .column1 > h4 {
+    opacity: 1;
+    animation: lefts linear 0.6s 0s;
+}
+
+.intro-animation > .row > .column2 > h4 {
+    opacity: 1;
+    animation: insert linear 0.7s 0s; 
+}
+
+.intro-animation > .row > .column2 > p {
+    opacity: 1;
+    animation: insert linear 0.8s 0s; 
+}
+
+.intro-animation > .row > .column2 {
+    opacity: 1;
+    animation: insert linear 2s 0s !important; 
 }
