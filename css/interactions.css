@@ -7,6 +7,8 @@
 .index-menu {
     border-bottom: 0px solid white;
     transition: border 0.3s;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
 }
 
 .index-menu.current {
@@ -22,6 +24,8 @@
 .charmaine-menu {
     border-bottom: 0px solid white;
     transition: border 0.3s;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
 }
 
 .charmaine-menu.current {
@@ -37,6 +41,8 @@
 .jerney-menu {
     border-bottom: 0px solid white;
     transition: border 0.3s;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
 }
 
 .jerney-menu.current {
@@ -52,6 +58,8 @@
 .ryan-menu {
     border-bottom: 0px solid white;
     transition: border 0.3s;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
 }
 
 .ryan-menu.current {
@@ -67,6 +75,8 @@
 .michelle-menu {
     border-bottom: 0px solid white;
     transition: border 0.3s;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
 }
 
 .michelle-menu.current {
@@ -79,6 +89,8 @@
 
 .navbar {
     background: white;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
 }
 
 .navbar-brand {
