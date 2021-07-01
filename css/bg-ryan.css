@@ -10,7 +10,6 @@
 	padding-left: 5rem;
 	padding-right: 5rem;
 	padding-top: 2rem;
-	padding-bottom: 5rem;
 }
 
 .column4 {
@@ -22,13 +21,12 @@
 }
 
 .column6 {
-	padding-top: 5rem;
+	padding-top: 4.5rem;
 }
-
 
 /* MASONRY BLOK 1 */
 .column7 {
-	padding-top: 4rem;
+	padding-top: 3.5rem;
 }
 
 .card {
@@ -39,37 +37,22 @@
 
 
 
-
-
 /* --- BLOK 2 --- */
 .container3 {
 	font-size: 14px;
 	padding-left: 5rem;
 	padding-right: 5rem;
-	padding-top: 5rem;
-	padding-bottom: 7rem;
 }
 
-.column8 {
-	padding-top: 7.5rem;
+.coulmn8 {
+	padding-top: 15rem;
 }
 
-.column9 {
-	padding-top: 19.5rem;
-}
-
-.column10 {
-	padding-top: 2.5rem;
-}
-
-.column11 {
-	padding-top: 4.5rem;
-}
 
 
 /* MASONRY BLOK 2 */
 .column12 {
-	padding-top: 3rem;
+	padding-top: rem;
 }
 
 .card {
@@ -83,30 +66,16 @@
 /* --- BLOK 3 --- */
 .container4 {
 	font-size: 14px;
-	padding: 5rem;
-	padding-top: 7rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+	padding-top: rem;
 }
 
-.column13 {
-	padding-top: 5rem;
-}
-
-.column14 {
-	padding-top: 19.5rem;
-}
-
-.column15 {
-	padding-top: 2rem;
-}
-
-.column16 {
-	padding-top: 5rem;
-}
 
 
 /* MASONRY BLOK 3 */
 .column17 {
-	padding-top: 5rem;
+	padding-top: rem;
 }
 
 .card {
