@@ -11,15 +11,23 @@
 	padding-left: 5rem;
 	padding-right: 5rem;
 	padding-top: 2rem;
-	padding-bottom: 4rem;
 }
 
+.column4 {
+	padding-top: 8rem;
+}
 
+.column5 {
+	padding-top: 2rem;
+}
 
+.column6 {
+	padding-top: 4rem;
+}
 
 /* MASONRY BLOK 1 */
 .column7 {
-	padding-top: 4rem;
+	padding-top: 3rem;
 }
 
 .card {
@@ -31,22 +39,33 @@
 
 
 
-
 /* --- BLOK 2 --- */
 .container3 {
 	font-size: 14px;
 	padding-left: 5rem;
 	padding-right: 5rem;
-	padding-top: 4rem;
-	padding-bottom: 7rem;
 }
 
+.column8 {
+	padding-top: 2rem;
+}
 
+.column9 {
+	padding-top: 17.5rem;
+}
+
+.column10 {
+	padding-top: 2rem;
+}
+
+.column11 {
+	padding-top: 3rem;
+}
 
 
 /* MASONRY BLOK 2 */
 .column12 {
-	padding-top: 3rem;
+	padding-top: 2rem;
 }
 
 .card {
@@ -60,16 +79,30 @@
 /* --- BLOK 3 --- */
 .container4 {
 	font-size: 14px;
-	padding: 5rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
+.column13 {
+	padding-top: 1rem;
+}
+
+.column14 {
+	padding-top: 17rem;
+}
+
+.column15 {
+	padding-top: 2rem;
+}
+
+.column16 {
 	padding-top: 3rem;
 }
 
 
-
-
 /* MASONRY BLOK 3 */
 .column17 {
-	padding-top: 5rem;
+	padding-top: 2rem;
 }
 
 .card {
