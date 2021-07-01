@@ -266,7 +266,42 @@ body {
     animation: insert linear 2s 0s !important; 
 }
 
+/* BUTTONS */
 
 .btn {
     background-color: transparent;
+    pointer-events: none;    
+}
+
+.btn-background {
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    top: -27px;
+    left: 50.5%;
+    z-index: -1;;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+.btn-charmaine {
+    background-color: rgba(241, 195, 193, 1);
+}
+
+.btn-jerney {
+    background-color: rgba(248, 247, 201, 1);
+}
+
+.btn-ryan {
+    background-color: rgba(220, 239, 241, 1);
+}
+
+.btn-michelle {
+    background-color: rgba(211, 230, 199, 1);
+}
+
+.btn-charmaine:hover {
 }
