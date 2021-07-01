@@ -271,9 +271,11 @@ body {
 .btn {
     background: none;
     pointer-events: none;
+    overflow: auto;
 }
 
 .btn-background {
+    overflow: auto;
     width: 160px;
     height: 30px;
     text-align: center;
@@ -301,4 +303,8 @@ body {
 
 .btn-michelle {
     background-color: rgba(211, 230, 199, 1);
+}
+
+.btn-background:hover {
+    background: pink;
 }
