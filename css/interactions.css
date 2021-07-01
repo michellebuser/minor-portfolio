@@ -282,12 +282,10 @@ body {
 
 .btn {
     background: none;
-    pointer-events: none;
-    overflow: auto;
 }
 
 .btn-background {
-    overflow: auto;
+    pointer-events: none;
     width: 160px;
     height: 30px;
     text-align: center;
