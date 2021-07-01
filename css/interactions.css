@@ -41,8 +41,8 @@
 .jerney-menu {
     border-bottom: 0px solid white;
     transition: border 0.3s;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
 }
 
 .jerney-menu.current {
@@ -89,8 +89,8 @@
 
 .navbar {
     background: white;
-    padding-top: 0.8rem;
-    padding-bottom: 0.8rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .navbar-brand {
@@ -102,7 +102,11 @@
 }
 
 .container1 {
-    margin-top: 6vw;
+    margin-top: 4vw;
+}
+
+.nav-link {
+    font-size: 12px;
 }
 
 @keyframes bounce {
@@ -228,12 +232,26 @@ body {
 
 .scrollsvg {
     animation: bounce infinite 1s reverse;
-    margin-left: 1.4vw;
+    /* margin-left: 1.4vw; */
     margin-bottom: 0.5vw;
 }
 
 .scroll-down {
+    width: 100px;
+    margin-top: 9vw;
+    text-align: center;
+}
+
+.scroll-down2 {
     margin-top: 8vw;
+    margin-left: 90%;
+    margin-right: 10%;
+    width: 100px;
+    text-align: center;
+}
+
+.lining {
+    border-top: 3px lightgray solid;
 }
 
 /* INTRO ANIMATIONS */
@@ -270,6 +288,7 @@ body {
 
 .intro-animation > .row > .column2 > p {
     opacity: 1;
+    max-width: 70%;
     animation: insert linear 0.8s 0s; 
 }
 
