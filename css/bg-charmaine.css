@@ -1,110 +1,125 @@
-/* --- BLOK 1 --- */
-.container2 {
-	font-size: 14px;
-	padding-left: 5rem;
-	padding-right: 5rem;
-	padding-top: 2rem;
-	padding-bottom: 5rem;
-}
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {  
 
-.column4 {
-	padding-top: 10rem;
-}
-
-.column5 {
-	padding-top: 2.5rem;
-}
-
-.column6 {
-	padding-top: 5rem;
 }
 
 
-/* MASONRY BLOK 1 */
-.column7 {
-	padding-top: 4rem;
-}
-
-.card {
-	border-radius: 0;
-	border-style: none;
-}
+	.lint {
+		background-image: url(images/charmaine/bg-lint.svg); 
+		background-repeat: no-repeat; 
+		background-size: cover; 
+		margin-top: -3em;
+	}
 
 
 
+	/* --- BLOK 1 --- */
+	.container2 {
+		font-size: 14px;
+		padding-left: 5rem;
+		padding-right: 5rem;
+		padding-top: 2rem;
+		padding-bottom: 4rem;
+	}
+
+	.column4 {
+		padding-top: 10rem;
+	}
+
+	.column5 {
+		padding-top: 2.5rem;
+	}
+
+	.column6 {
+		padding-top: 5rem;
+	}
 
 
+	/* MASONRY BLOK 1 */
+	.column7 {
+		padding-top: 4rem;
+	}
 
-/* --- BLOK 2 --- */
-.container3 {
-	font-size: 14px;
-	padding-left: 5rem;
-	padding-right: 5rem;
-	padding-top: 5rem;
-	padding-bottom: 6rem;
-}
-
-.column8 {
-	padding-top: 2rem;
-}
-
-.column9 {
-	padding-top: 19.5rem;
-}
-
-.column10 {
-	padding-top: 2.5rem;
-}
-
-.column11 {
-	padding-top: 4.5rem;
-}
-
-
-/* MASONRY BLOK 2 */
-.column12 {
-	padding-top: 3rem;
-}
-
-.card {
-	border-radius: 0;
-	border-style: none;
-}
+	.card {
+		border-radius: 0;
+		border-style: none;
+	}
 
 
 
 
-/* --- BLOK 3 --- */
-.container4 {
-	font-size: 14px;
-	padding: 5rem;
-	padding-top: 7rem;
-}
-
-.column13 {
-	padding-top: 1rem;
-}
-
-.column14 {
-	padding-top: 19.5rem;
-}
-
-.column15 {
-	padding-top: 2rem;
-}
-
-.column16 {
-	padding-top: 5rem;
-}
 
 
-/* MASONRY BLOK 3 */
-.column17 {
-	padding-top: 5rem;
-}
+	/* --- BLOK 2 --- */
+	.container3 {
+		font-size: 14px;
+		padding-left: 5rem;
+		padding-right: 5rem;
+		padding-top: 5rem;
+		padding-bottom: 6rem;
+	}
 
-.card {
-	border-radius: 0;
-	border-style: none;
-}
+	.column8 {
+		padding-top: 2rem;
+	}
+
+	.column9 {
+		padding-top: 19.5rem;
+	}
+
+	.column10 {
+		padding-top: 2.5rem;
+	}
+
+	.column11 {
+		padding-top: 4.5rem;
+	}
+
+
+	/* MASONRY BLOK 2 */
+	.column12 {
+		padding-top: 3rem;
+	}
+
+	.card {
+		border-radius: 0;
+		border-style: none;
+	}
+
+
+
+
+	/* --- BLOK 3 --- */
+	.container4 {
+		font-size: 14px;
+		padding: 5rem;
+		padding-top: 7rem;
+	}
+
+	.column13 {
+		padding-top: 1rem;
+	}
+
+	.column14 {
+		padding-top: 19.5rem;
+	}
+
+	.column15 {
+		padding-top: 2rem;
+	}
+
+	.column16 {
+		padding-top: 5rem;
+	}
+
+
+	/* MASONRY BLOK 3 */
+	.column17 {
+		padding-top: 5rem;
+	}
+
+	.card {
+		border-radius: 0;
+		border-style: none;
+	}
 
